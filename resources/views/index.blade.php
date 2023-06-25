@@ -47,7 +47,7 @@
 
                  <div class="mt-8 bg-white dark:bg-gray-800 overflow-hidden shadow sm:rounded-lg">
                     
-                        <h1>This is the new index page.</h1>
+                        <h1>This is the new index page. i am changing it again</h1>
                                
                  </div>
 
